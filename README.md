@@ -20,7 +20,6 @@ iii. Tạo và Quản lý Mã Nguồn Số
 
 3.1. Viết mã nguồn HTML hiển thị infographic và video đã tạo, có tiêu đề, mô tả ngắn và ghi chú bản quyền.
 Sử dụng GitHub Copilot để hỗ trợ sinh mã và chỉnh sửa thủ công trên VS Code, sau đó kiểm tra hiển thị trên trình duyệt.
-### [NHẤN VÀO ĐÂY ĐỂ PREVIEW PAGE HTML</span>](https://htmlpreview.github.io/?https://raw.githubusercontent.com/huong-nek/thuc-hanh-buoi-5-nhom-5/refs/heads/main/Nhiemvu_3.1.html)
 
 3.2. Quản lý phiên bản và chia sẻ nội dung qua GitHub: tạo repository “ThucHanh05_TenSinhVien”, commit đầy đủ các file (PDF, PNG, MP4, HTML), thêm README.md mô tả, và gửi link repo qua Microsoft Teams.
 

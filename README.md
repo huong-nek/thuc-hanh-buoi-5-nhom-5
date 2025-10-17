@@ -33,6 +33,7 @@ CapCut : tạo video đa phương tiện (Nhiệm vụ 2.2)
 
 GitHub Copilot : hỗ trợ sinh mã HTML (Nhiệm vụ 3.1)
 
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/huong-nek/thuc-hanh-buoi-5-nhom-5/refs/heads/main/Nhiemvu_3.1.html
 ## Giấy phép
 <a href="https://github.com/huong-nek/thuc-hanh-buoi-6-nhom-5">nhiemvu2.1</a> © 2025 by <a href="https://www.canva.com/ai-assistant/">Canva AI</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 

@@ -1,4 +1,5 @@
-##Nội dung thực hành: 3 phần
+## Nội dung thực hành: 3 phần
+
 i. Tạo và Chỉnh sửa Nội dung Văn bản Số
 
 1.1. Tạo báo cáo học tập bằng Google Docs, sử dụng AI (Google Bard) để viết đoạn văn ngắn về “Ứng dụng công nghệ số trong học tập”.
@@ -22,14 +23,17 @@ Sử dụng GitHub Copilot để hỗ trợ sinh mã và chỉnh sửa thủ cô
 
 3.2. Quản lý phiên bản và chia sẻ nội dung qua GitHub: tạo repository “ThucHanh05_TenSinhVien”, commit đầy đủ các file (PDF, PNG, MP4, HTML), thêm README.md mô tả, và gửi link repo qua Microsoft Teams.
 
-##Trích dẫn
+## Trích dẫn
 
-Google Bard – sinh nội dung văn bản
-Canva AI – thiết kế infographic
-CapCut – tạo video đa phương tiện
-GitHub Copilot – hỗ trợ sinh mã HTML
+Google Bard : sinh nội dung văn bản (Nhiệm vụ 1)
 
-##Giấy phép
+Canva AI : thiết kế infographic (Nhiệm vụ 2.1)
+
+CapCut : tạo video đa phương tiện (Nhiệm vụ 2.2)
+
+GitHub Copilot : hỗ trợ sinh mã HTML (Nhiệm vụ 3.1)
+
+## Giấy phép
 <a href="https://github.com/huong-nek/thuc-hanh-buoi-6-nhom-5">nhiemvu2.1</a> © 2025 by <a href="https://www.canva.com/ai-assistant/">Canva AI</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 <a href="https://share.google/Orr8NRILIiBdJIQRE">copilot</a> © 2025 by <a href="https://github.com/huong-nek">AI</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
